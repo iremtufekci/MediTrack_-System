@@ -1,0 +1,18 @@
+# Visual Studio/C# Derleme Çıktıları
+GUI_CSharp/bin/
+GUI_CSharp/obj/
+*.suo
+# NuGet Paketleri
+GUI_CSharp/packages/
+
+# Genel Geçici ve Çıktı Dosyaları
+*.exe
+*.dll
+*.pdb
+*.user
+*.log
+# Sıkıştırılmış Dosyalar ve Büyük Medya
+*.zip
+*.rar
+*.jpg
+*.png
